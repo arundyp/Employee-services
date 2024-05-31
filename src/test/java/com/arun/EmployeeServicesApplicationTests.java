@@ -10,4 +10,10 @@ class EmployeeServicesApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void welcome(){
+
+
+}
+
 }
